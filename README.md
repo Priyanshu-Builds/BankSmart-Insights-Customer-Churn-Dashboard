@@ -2,9 +2,11 @@
 
 This Power BI report, titled **BankSmart Insights**, explores and visualizes customer churn patterns in a retail banking environment. It identifies key factors driving customer exit and supports data-driven retention strategies.
 
-![Banking Domain - Customer Churb Analysis Report_Page_1](https://github.com/user-attachments/assets/a0ef08c0-ed7f-4488-b48e-5e31f4abf20d)
+<img width="1454" height="826" alt="Screenshot 2025-07-16 154602" src="https://github.com/user-attachments/assets/784e4693-ac5c-4029-a7b1-50a6ae3cdf39" />
 
-![Banking Domain - Customer Churb Analysis Report_Page_2](https://github.com/user-attachments/assets/04853ea3-2519-4515-aba5-4276cf67adcc)
+
+<img width="1458" height="831" alt="Screenshot 2025-07-16 154654" src="https://github.com/user-attachments/assets/a5acffc1-086f-47d3-aa12-00c771a9d60c" />
+
 
 
 ## 📄 Project Overview
